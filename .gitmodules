@@ -1,0 +1,12 @@
+[submodule "Game-Of-Thrones"]
+	path = Game-Of-Thrones
+	url = https://github.com/SametRozgar/Game-Of-Thrones-Imdb-Page-With-3D-Dragon-Model
+[submodule "iPhone-16-Cart"]
+	path = iPhone-16-Cart
+	url = https://github.com/SametRozgar/Animated-3D-iPhone-16-Cart-Desgin
+[submodule "Bank-Card-Template"]
+	path = Bank-Card-Template
+	url = https://github.com/SametRozgar/Animated-Bank-Card-Template
+[submodule "Login-Form"]
+	path = Login-Form
+	url = https://github.com/SametRozgar/Animated-Login-Form
